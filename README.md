@@ -26,7 +26,7 @@ This project focuses on **queue-based ticket assignment**, **priority escalation
   - Priority Queues  
   - Hash Maps  
 ### Frontend  
-- **React (Vite)**  
+- React (Vite)   
 - JavaScript  
 - CSS  
 ---  
